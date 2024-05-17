@@ -12,7 +12,7 @@
     }
   ],
   "functions": {
-    "src/v1/chat/completion": {
+    "/v1/chat/completion": {
       "maxDuration": 60
     }
   }
