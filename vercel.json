@@ -10,10 +10,5 @@
       "source": "/",
       "destination": "/api/guide"
     }
-  ],
-  "functions": {
-    "v1/chat/completions": {
-      "maxDuration": 60
-    }
-  }
+  ]
 }
