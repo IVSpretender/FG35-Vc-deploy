@@ -12,7 +12,7 @@
     }
   ],
   "functions": {
-    "/v1/chat/completion": {
+    "api/index": {
       "maxDuration": 60
     }
   }
