@@ -13,7 +13,7 @@
   ],
   "functions": {
     "src/v1/chat/completion": {
-      "maxDuration": 60 // You must prefix functions in the src directory with /src/
+      "maxDuration": 60
     }
   }
 }
